@@ -1,0 +1,12 @@
+<style>
+
+
+body {
+
+font-family : verdana, arial;
+}
+</style>
+
+
+
+this means browswer tries to load verdana, if its not availble it will try to load arial, if this is also not found, it loads default font.

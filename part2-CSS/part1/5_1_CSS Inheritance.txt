@@ -1,0 +1,28 @@
+In HTML, we saw the hierarchy of tags that html contains head and body. 
+
+head contains meta, style and title
+
+body contains all sort of elements which renders content into browser.
+
+
+
+
+CSS Inheritance :: 
+
+In previous examples, we saw that if we keep a selector say p{ <styles> }, it applies for all p tags.
+
+and, we know that all these p elements are in body element
+
+The CSS Inheritance works in such a way that, if we style body element, that applies to all the child elements in it.
+
+
+Ex: Let's say we want to apply color to entire text in body whiever sub element the content may be in,  we can use below.
+
+
+OVERRIDING:
+
+Now, if you want entire body to have some value for a particular property, lets say green for color: prop. But you want p tags to have red color,
+
+you can add color property for p tags, that works and called overriding.
+
+

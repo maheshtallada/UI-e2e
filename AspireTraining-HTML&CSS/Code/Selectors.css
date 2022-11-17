@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+    background-color: brown;
+    font-size: 20px;
+}
+.nah1 {
+    color:blueviolet;
+}
+
+/* For class we'll use dot(.) prior to the identifier and for id we'll use hash (#)*/
+
+
+#myid {
+    color: yellow;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+*{
+    background-color: blue;
+}

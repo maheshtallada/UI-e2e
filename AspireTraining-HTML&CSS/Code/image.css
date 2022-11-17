@@ -1,0 +1,14 @@
+img {
+    border: 2px solid grey;
+    border-radius: 40px;
+    /* use solid if border needs to be visible and color if color required -- if ntg -- it's invisible */
+    width: 50px;
+    padding: 10px;
+    opacity: 1.0;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+    max-width: 100%;
+    height: auto;
+    
+}

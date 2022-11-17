@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<head> </head>
+
+<body>
+<!-- iframe is used to embed another html doc into our web page without reloading/refreshing the page
+
+insert content from external source-->
+
+<!-- frameborder=0 -- off     frameborder=1 -- on -->
+<iframe frameborder="1" width="200" height="200"
+   src="23_1_first.html" name="ouriframe" id="ouriframe">
+   DO you see this?
+</iframe><br/>
+<!-- the text Do you see this should not be rendered if browswer recognizes iframe-- almost all browsers support this-->
+
+
+<a href="23_2_second.html" target="ouriframe">switch to new document</a>
+
+
+<!--observe that the other html file names are given directly as this html file and the files mentioned are in same folder, if different, needs to give the path. how to give is to be learnt -->
+</body>
+
+</html>

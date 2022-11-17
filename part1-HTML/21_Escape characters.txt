@@ -1,0 +1,12 @@
+ESCAPE CHARACTERS
+
+we already saw, browswer understands only one white space. if we eant too many, we have to use &nbsp;
+space -------  &nbsp;
+
+
+™ ---------- &#8482;
+& ---------- &amp;
+© ---------- &copy;
+< ----------- &lt;
+> ----------- &gt;
+? ----------- &#63;

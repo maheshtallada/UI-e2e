@@ -1,0 +1,23 @@
+HTML & CSS
+
+Day-1
+1.	Selectors
+2.	Colors
+3.	Units & Sizes
+13.	Images
+
+
+4.	Box Model
+5.	Typography
+6.	Styling Links
+7.	List Styles
+8.	Display
+9.	Columns
+10.	Position
+11.	Flexbox
+12.	Grid Layout
+14.	Media Queries
+15.	Pseudo
+16.	Variables
+17.	Functions
+18.	Animations

@@ -1,0 +1,7 @@
+<!-- elements or tags or element tag or tag element --- all are same -->
+
+<!-- by now you must have understood the diff b/w element and attribute-->
+
+<!-- element specifies browser what to do and attribute gives more information on that-->
+
+<!-- few attributes are applicable only for particular element like for is used in label, but few ccan be applicable for most of the elements like class for styling-->

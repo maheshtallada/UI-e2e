@@ -1,0 +1,2 @@
+1. type ! and enter to get the html skeleton code
+2. p*3 gives three p tags | applicable for any element
