@@ -6,18 +6,19 @@ Day-1
 3.	Units & Sizes
 13.	Images
 
-
+Day-2
 4.	Box Model
+15.	Pseudo
 5.	Typography
+14.	Media Queries
+11.	Flexbox
+
 6.	Styling Links
 7.	List Styles
 8.	Display
 9.	Columns
 10.	Position
-11.	Flexbox
 12.	Grid Layout
-14.	Media Queries
-15.	Pseudo
 16.	Variables
 17.	Functions
 18.	Animations

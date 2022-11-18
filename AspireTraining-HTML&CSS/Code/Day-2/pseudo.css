@@ -1,0 +1,25 @@
+.pseudo:hover {
+    background-color: indianred;
+    color:mediumblue;
+}
+
+button:active {
+    background-color: indianred;
+    color:mediumblue;
+}
+
+div:hover h2 {
+    color:yellow;
+}
+
+/* @media screen and (min-width:600px) { 
+    body { 
+        color: brown; 
+    }    
+} */
+
+@media speech{ 
+    body { 
+        color: blue; 
+    }    
+} 

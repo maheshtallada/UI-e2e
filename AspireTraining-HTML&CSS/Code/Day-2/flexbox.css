@@ -1,0 +1,9 @@
+.flex-contaier{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+}
+
+div{
+    padding: 20px;
+}
